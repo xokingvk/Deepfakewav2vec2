@@ -5,7 +5,9 @@
 # Audio Deepfake Detection Using Fine-Tuned wav2vec2
  
 **Author:** Vishnuvardhan B
+
 **Date:** 26 June 2026
+
 **Demo:** https://colab.research.google.com/drive/1vFBELq8RVLV495b54zoO42ZlS_1dbRhW?usp=sharing
  
 ---
