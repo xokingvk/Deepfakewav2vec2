@@ -25,7 +25,7 @@ Evaluated on [ASVspoof2019](https://www.kaggle.com/datasets/awsaf49/asvpoof-2019
  
 ## Model
  
-- **Base:** `alefiury/wav2vec2-large-xlsr-53-gender-recognition-librispeech`
+- **Base:** `https://huggingface.co/OBITO03/Deepfakewav2vec2`
 - **Fine-tuned on:** ASVspoof2019 (real vs spoofed audio)
 - **Task:** Binary classification — `real` / `fake`
 ## Run it
