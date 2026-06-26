@@ -43,14 +43,12 @@ Run all cells in order. Last cell launches the Streamlit app.
 | `config.json` | Model config |
 | `preprocessor_config.json` | Audio preprocessing config |
 | `training_args.bin` | Training arguments |
-| `app.py` | Streamlit web app |
  
 ## Tech Stack
  
 - HuggingFace Transformers
 - PyTorch
 - librosa
-- Streamlit
 ## License
  
 Apache 2.0
